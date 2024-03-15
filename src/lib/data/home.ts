@@ -8,7 +8,7 @@ export const name = 'Aykut';
 export const lastName = 'Asil';
 
 export const description =
-	'Hi, I'm Aykut.';
+	"Hi, I'm Aykut.";
 
 export const links: Array<{ platform: Platform; link: string }> = [
 	{ 	platform: Platform.GitHub, 
